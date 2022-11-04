@@ -281,6 +281,7 @@
 			<outline text="Jan Boddez: All Items" htmlUrl="https://jan.boddez.net" xmlUrl="https://jan.boddez.net/feed" title="Jan Boddez: All Items" type="rss" />
 			<outline htmlUrl="https://dougbelshaw.com/blog" type="rss" xmlUrl="https://dougbelshaw.com/blog/feed/" text="Doug Belshaw | Open Thinkering" title="Doug Belshaw | Open Thinkering" />
 			<outline htmlUrl="https://www.rockyourcode.com/" xmlUrl="https://www.rockyourcode.com/index.xml/" title="Sophia Brandt | rockyourcode" text="Sophia Brandt | rockyourcode" type="rss" />
+			<outline htmlUrl="https://www.shawnhooper.ca/" xmlUrl="https://www.shawnhooper.ca/feed/" title="Shawn Hooper | Web Developer and Conference Speaker" text="Shawn Hooper | Web Developer and Conference Speaker" type="rss" />
 		</outline>
 	</body>
 </opml>
