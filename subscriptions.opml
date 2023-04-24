@@ -317,6 +317,7 @@
 			<outline title="Rach Smith" type="rss" xmlUrl="https://rachsmith.com/rss" text="Rach Smith" htmlUrl="https://rachsmith.com/" />
 			<outline text="Scott O'Hara" xmlUrl="http://www.scottohara.me/feed.xml" type="rss" title="Scott O'Hara" htmlUrl="https://scottohara.me//" />
 			<outline type="rss" htmlUrl="https://shawnhooper.ca/" xmlUrl="https://www.shawnhooper.ca/feed/rss" text="Shawn Hooper" title="Shawn Hooper" />
+			<outline type="rss" htmlUrl="https://cdevroe.com/" xmlUrl="https://cdevroe.com/feed" text="Colin Devroe" title="Colin Devroe" />
 		</outline>
 	</body>
 </opml>
