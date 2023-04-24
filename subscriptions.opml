@@ -311,7 +311,6 @@
 			<outline title="Matt Steele" text="Matt Steele" xmlUrl="https://steele.blue/feed/atom.xml" htmlUrl="http://github.com/dylang/node-rss" type="rss" />
 			<outline title="Nicolas Hoizey" text="Nicolas Hoizey" type="rss" htmlUrl="http://pubsubhubbub.superfeedr.com/" xmlUrl="https://nicolas-hoizey.com/atom.xml" />
 			<outline title="Niels Leenheer" type="rss" text="Niels Leenheer" htmlUrl="https://nielsleenheer.com" xmlUrl="https://nielsleenheer.com/feed/" />
-			<outline title="Paul Irish" type="rss" text="Paul Irish" htmlUrl="https://paulirish.com/atom.xml" xmlUrl="http://feeds.feedburner.com/paul-irish" />
 			<outline type="rss" xmlUrl="https://paulstamatiou.com/posts.xml" htmlUrl="https://paulstamatiou.com" title="Paul Stamatiou" text="Paul Stamatiou" />
 			<outline title="Peter Gasston" text="Peter Gasston" type="rss" xmlUrl="https://petergasston.co.uk/feed/" htmlUrl="https://petergasston.co.uk" />
 			<outline title="Matt Mullenweg | Photo Matt" type="rss" htmlUrl="https://ma.tt" text="Matt Mullenweg | Photo Matt" xmlUrl="http://xml.photomatt.net/feed/" />
