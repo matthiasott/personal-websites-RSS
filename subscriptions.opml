@@ -226,7 +226,7 @@
 			<outline text="Jim Nielsen" htmlUrl="https://blog.jim-nielsen.com" title="Jim Nielsen" type="rss" xmlUrl="https://blog.jim-nielsen.com/feed.xml" />
 			<outline type="rss" text="Ryan Feigenbaum" htmlUrl="https://ryanfeigenbaum.com/" title="Ryan Feigenbaum" xmlUrl="https://ryanfeigenbaum.com/rss/" />
 			<outline text="Frederic Hemberger" title="Frederic Hemberger" type="rss" htmlUrl="https://frederic-hemberger.de/feed/feed.xml" xmlUrl="https://frederic-hemberger.de/feed/feed.xml" />
-			<outline text="Frank Fuchs" title="Frank Fuchs" htmlUrl="https://frankfuchs.net/articles/" xmlUrl="https://frankfuchs.net/articles/rss/" type="rss" />
+			<outline text="Frank Fuchs" title="Frank Fuchs" htmlUrl="https://frankfuchs.net/articles/rss/feed.xml" xmlUrl="https://frankfuchs.net/articles/rss/feed.xml" type="rss" />
 			<outline type="rss" xmlUrl="https://zoranjambor.com/feed/" text="Zoran Jambor" title="Zoran Jambor" htmlUrl="https://zoranjambor.com" />
 			<outline title="Tyler Robertson" xmlUrl="https://blog.atylerrobertson.com/all?format=rss" type="rss" htmlUrl="https://blog.aTylerRobertson.com" text="Tyler Robertson" />
 			<outline text="Daniel Wentsch" title="Daniel Wentsch" htmlUrl="https://wentsch.me" xmlUrl="https://wentsch.me/feed.xml" type="rss" />
